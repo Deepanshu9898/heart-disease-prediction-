@@ -165,29 +165,7 @@ heart_disease_project/
 └── README.md
 ```
 
----
 
-## 🛠️ How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/heart-disease-prediction.git
-   cd heart-disease-prediction
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn joblib jupyter
-   ```
-
-3. Open the notebook:
-   ```bash
-   jupyter notebook notebook/Heart_Disease_Prediction.ipynb
-   ```
-
-4. Run all cells top to bottom.
-
----
 
 ## 📚 References
 
